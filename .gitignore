@@ -1,0 +1,7 @@
+Old/
+# Ignore preform files - not worth sharing, since most peope don't have our printer + resin
+*.form
+# Ignore directories called "Working"
+Working/
+# Ignore temporary FreeCAD files
+*.FCStd1

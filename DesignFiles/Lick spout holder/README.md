@@ -1,0 +1,1 @@
+These are design files for a lick spout holder, which is a method of mounting a water spout to the rig so it can be accurately and repeatably positioned relative to the mouse.
