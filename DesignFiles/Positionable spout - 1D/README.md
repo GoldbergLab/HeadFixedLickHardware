@@ -1,0 +1,1 @@
+These are design files for a system to mount a water spout on a linear actuator, to allow it to be moved in one dimension. It is meant to attach to a Faulhaber LM0830 linear actuator.

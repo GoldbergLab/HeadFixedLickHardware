@@ -1,0 +1,1 @@
+This is a CorelDraw file containing the design for an acoustic barrier to place between the mouse and the movable spout, to limit the mouse's ability to localize the spout by ear. It is intended to be cut from 1/4" acrylic sheets in a laser cutter.
