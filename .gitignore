@@ -5,3 +5,5 @@ Old/
 Working/
 # Ignore temporary FreeCAD files
 *.FCStd1
+# Ignore directories called "Private"
+private/
