@@ -1,0 +1,1 @@
+This is the design file for the "joystick board". We call it the "joystick board" for historical reasons. It no longer has anything to do with a joystick. It functions as an electronics breakout board, allowing a DB15 cable to connect all the sensors and actuators to the DAQ. It also performs some signal conditioning and power conversion.
