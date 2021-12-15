@@ -1,0 +1,1 @@
+This is a collection of various design files for third party parts. These were not designed by us, but are used in our experiments, and are therefore useful for modeling other parts that go with them.
