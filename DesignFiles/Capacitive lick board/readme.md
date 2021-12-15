@@ -1,0 +1,1 @@
+This is a small PCB that provides capacitive touch sensing, using the Atmel QT1011 chip.
