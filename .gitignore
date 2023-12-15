@@ -9,3 +9,5 @@ Working/
 private/
 # Ignore various backup files
 *.bak
+# Ignore temporary blender files
+*.blend1
