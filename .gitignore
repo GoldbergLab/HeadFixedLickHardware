@@ -11,3 +11,5 @@ private/
 *.bak
 # Ignore temporary blender files
 *.blend1
+# Ignore RIO Flexible Breakout-backups directory
+RIO Flexible Breakout-backups/
