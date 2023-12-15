@@ -7,3 +7,5 @@ Working/
 *.FCStd1
 # Ignore directories called "Private"
 private/
+# Ignore various backup files
+*.bak
